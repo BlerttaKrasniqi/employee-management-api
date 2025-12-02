@@ -11,13 +11,8 @@ o	SQL Server or
 o	PostgreSQL
 You must update the connection string inside EmployeeManagement.Api/appsettings.json.
 Example connection string for SQL Server:
-"ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=EmployeeDb;Trusted_Connection=True;TrustServerCertificate=True"
-}
-Example connection string for PostgreSQL:
-"ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Port=5432;Database=EmployeeDb;Username=postgres;Password=yourpassword"
-}
+<img width="1241" height="136" alt="image" src="https://github.com/user-attachments/assets/88c89c77-133f-462b-a538-8c98d83d35cd" />
+
  
 ## Running the API
 Open a terminal inside the project folder and run:
@@ -47,32 +42,12 @@ Deletes an employee from the database.
 Request & Response Examples
 GET /api/employees
 Example response:
-[
-  {
-    "id": 1,
-    "firstName": "John",
-    "lastName": "Doe",
-    "dateOfBirth": "1990-01-15T00:00:00",
-    "educationLevel": "Bachelor",
-    "age": 35
-  }
-]
+<img width="1800" height="646" alt="image" src="https://github.com/user-attachments/assets/c1bc21a0-7a35-47d9-9674-c724c0eb3b01" />
+
  
 POST /api/employees
-Request:
-{
-  "firstName": "Anna",
-  "lastName": "Smith",
-  "dateOfBirth": "1995-06-23",
-  "educationLevel": "Master"
-}
-Response:
-{
-  "id": 3,
-  "firstName": "Anna",
-  "lastName": "Smith",
-  "dateOfBirth": "1995-06-23T00:00:00",
-  "educationLevel": "Master",
-  "age": 29
-}
+<img width="1818" height="666" alt="image" src="https://github.com/user-attachments/assets/7c899175-c8bf-4268-b283-a1504aaa7ef5" />
+<img width="1805" height="541" alt="image" src="https://github.com/user-attachments/assets/bda1d1df-c135-4e5b-af4c-845c3b1a1752" />
+
+
 
