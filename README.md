@@ -55,7 +55,8 @@ GET /api/employees/{id}
 PUT /api/employees/{id}
 
 <img width="1757" height="627" alt="image" src="https://github.com/user-attachments/assets/f3b6a487-ccc4-4e65-a29b-8c858d714c31" />
-<img width="1778" height="344" alt="image" src="https://github.com/user-attachments/assets/75dcf46d-19fd-49c8-9aab-bebd6e628bcd" />
+<img width="1779" height="673" alt="image" src="https://github.com/user-attachments/assets/bc934d25-667c-479c-8a4f-83238a0e373f" />
+
 
 DELETE /api/employees/{id}
 <img width="1804" height="811" alt="image" src="https://github.com/user-attachments/assets/1999bd1a-3877-45ab-86bd-826fb66c6fd6" />
