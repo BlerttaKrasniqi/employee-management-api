@@ -53,8 +53,8 @@ GET /api/employees/{id}
 <img width="1776" height="834" alt="image" src="https://github.com/user-attachments/assets/bf2b4900-fce7-4119-9019-87e230648175" />
 
 PUT /api/employees/{id}
+<img width="1783" height="746" alt="image" src="https://github.com/user-attachments/assets/f7da20b4-bdda-4df5-9e48-b572966ab44b" />
 
-<img width="1757" height="627" alt="image" src="https://github.com/user-attachments/assets/f3b6a487-ccc4-4e65-a29b-8c858d714c31" />
 <img width="1779" height="673" alt="image" src="https://github.com/user-attachments/assets/bc934d25-667c-479c-8a4f-83238a0e373f" />
 
 
