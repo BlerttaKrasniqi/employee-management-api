@@ -49,5 +49,19 @@ POST /api/employees
 <img width="1818" height="666" alt="image" src="https://github.com/user-attachments/assets/7c899175-c8bf-4268-b283-a1504aaa7ef5" />
 <img width="1805" height="541" alt="image" src="https://github.com/user-attachments/assets/bda1d1df-c135-4e5b-af4c-845c3b1a1752" />
 
+GET /api/employees/{id}
+<img width="1776" height="834" alt="image" src="https://github.com/user-attachments/assets/bf2b4900-fce7-4119-9019-87e230648175" />
+
+PUT /api/employees/{id}
+
+<img width="1757" height="627" alt="image" src="https://github.com/user-attachments/assets/f3b6a487-ccc4-4e65-a29b-8c858d714c31" />
+<img width="1778" height="344" alt="image" src="https://github.com/user-attachments/assets/75dcf46d-19fd-49c8-9aab-bebd6e628bcd" />
+
+DELETE /api/employees/{id}
+<img width="1804" height="811" alt="image" src="https://github.com/user-attachments/assets/1999bd1a-3877-45ab-86bd-826fb66c6fd6" />
+
+
+
+
 
 
